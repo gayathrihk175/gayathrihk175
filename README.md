@@ -104,13 +104,31 @@
                 <a href="https://github.com/gayathrihk175/ES6-Projects" target="_blank">GitHub Repo</a>
            </td>
         </tr>
-        <tr>
+          <tr>
             <td>3.</td>
+            <td>Contacts Management App</td>
+            <td>React</td>
+            <td>
+                <a href="" target="_blank">Link to the website</a> <br/>
+                <a href="" target="_blank">GitHub Repo</a>
+           </td>
+        </tr>
+        <tr>
+            <td>4.</td>
             <td>React TODO App</td>
             <td>React</td>
             <td>
                 <a href="https://gayathrihk175.github.io/React-TODO-App/" target="_blank">Link to the website</a> <br/>
                 <a href="https://github.com/gayathrihk175/React-TODO-App" target="_blank">GitHub Repo</a>
+           </td>
+        </tr>
+          <tr>
+            <td>5.</td>
+            <td>Chat Application</td>
+            <td>React, Node, Express, MongoDB, ChakraUI, Socket.io</td>
+            <td>
+                <a href="" target="_blank">Link to the website</a> <br/>
+                <a href="" target="_blank">GitHub Repo</a>
            </td>
         </tr>
     </tbody>  
