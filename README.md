@@ -109,8 +109,8 @@
             <td>Contacts Management App</td>
             <td>React</td>
             <td>
-                <a href="" target="_blank">Link to the website</a> <br/>
-                <a href="" target="_blank">GitHub Repo</a>
+                <a href="https://gayathrihk175.github.io/Contacts-Manager/" target="_blank">Link to the website</a> <br/>
+                <a href="https://github.com/gayathrihk175/Contacts-Manager" target="_blank">GitHub Repo</a>
            </td>
         </tr>
         <tr>
