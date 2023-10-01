@@ -82,17 +82,17 @@
             <th>#</th>
             <th>Project Name</th>
             <th>Tech Stack</th>
-            <th>Live Url / Github Link</th>
+            <th>Live Url + Github Link</th>
         </tr>
     </thead>
       <tbody>
        <tr>
             <td>1.</td>
-            <td>Chat App</td>
-            <td>NodeJs, Express, MongoDB, React, ChakraUI , Socket.io</td>
+            <td>Simple Bank App</td>
+            <td>HTML,CSS,JS</td>
             <td>
-                <a href="" target="_blank">Link to be added</a> <br/>
-                <a href="" target="_blank">Github Repo</a>
+                <a href="https://6506e8c05ed2ae30c028ce55--venerable-sopapillas-56d199.netlify.app/" target="_blank">Link to the website</a> <br/>
+                <a href="https://github.com/gayathrihk175/Bank-App-JS" target="_blank">GitHub Repo</a>
            </td>
         </tr>
          <tr>
@@ -100,17 +100,17 @@
             <td>ToDo App & E-commerce</td>
             <td>HTML,CSS,ES6</td>
             <td>
-                <a href="" target="_blank">Link to be added</a> <br/>
-                <a href="" target="_blank">Github Repo</a>
+                <a href="https://todo-list-lilac-delta.vercel.app/" target="_blank">Link to the website</a> <br/>
+                <a href="https://github.com/gayathrihk175/ES6-Projects" target="_blank">GitHub Repo</a>
            </td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>Bank App</td>
-            <td>HTML,CSS,JS</td>
+            <td>React TODO App</td>
+            <td>React</td>
             <td>
-                <a href="" target="_blank">Link to be added</a> <br/>
-                <a href="" target="_blank">Github Repo</a>
+                <a href="https://gayathrihk175.github.io/React-TODO-App/" target="_blank">Link to the website</a> <br/>
+                <a href="https://github.com/gayathrihk175/React-TODO-App" target="_blank">GitHub Repo</a>
            </td>
         </tr>
     </tbody>  
