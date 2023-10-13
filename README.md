@@ -121,11 +121,28 @@
         </tr>
           <tr>
             <td>5.</td>
+            <td>React TODO App with Redux-toolkit</td>
+            <td>React</td>
+            <td>
+                <a href="https://todo-redux-675qt4z0d-gayathrih175-gmailcom.vercel.app/" target="_blank">Link to the website</a> <br/>
+                <a href="https://github.com/gayathrihk175/redux-todo" target="_blank">GitHub Repo</a>
+           </td>
+        </tr>
+           <tr>
+            <td>6.</td>
+            <td>Food Ordering Application</td>
+            <td>React,Redux</td>
+            <td>
+               In Progress
+           </td>
+        </tr>
+          <tr>
+            <td>7.</td>
             <td>Chat Application</td>
             <td>React, Node, Express, MongoDB, ChakraUI, Socket.io</td>
             <td>
                 <a href="" target="_blank">Link to the website</a> <br/>
-                <a href="" target="_blank">GitHub Repo</a>
+                <a href="https://github.com/gayathrihk175/chat-app" target="_blank">GitHub Repo</a>
            </td>
         </tr>
     </tbody>  
